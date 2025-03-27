@@ -1,0 +1,1 @@
+print('My name is Kushal Yadav and I am a SLAVE')
